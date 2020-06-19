@@ -1,0 +1,7 @@
+.row {
+    display: flex;
+    margin: 0 50px ;
+}
+.col {
+    margin: 10px
+}
